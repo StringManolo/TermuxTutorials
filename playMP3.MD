@@ -2,7 +2,7 @@
 Select a youtube playlist, for example:  
 https://m.youtube.com/playlist?list=PLW0qrlJ-5IPme5cgsYre0BErCSJGy9lWp
   
-Dowload it using this web (may be ilegal in your country download music from youtube)  
+Download it using this web (can be ilegal in your country)  
 https://loader.to/
   
 I fill 12 in playlist end field (number of youtube playlist songs)
