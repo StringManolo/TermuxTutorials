@@ -1,21 +1,21 @@
 # Play MP3 in Termux:
-Select a youtube playlist, for example:  
+Select a **youtube playlist**, for example:  
 https://m.youtube.com/playlist?list=PLW0qrlJ-5IPme5cgsYre0BErCSJGy9lWp
   
-Download it using this web (can be ilegal in your country)  
+**Download** it **using** this **web** (__can be ilegal in your country__)  
 https://loader.to/
   
-I fill 12 in playlist end field (number of youtube playlist songs)
+I **fill** 12 in playlist **end field** (number of youtube playlist songs)
   
-Press download and wait, when 100% click again. 
+**Press download** and wait, **when 100% click again**. 
   
 Install mpg123:
-pkg install mpg123
+**pkg install mpg123**
 
-Move the zip from your storage to wjere you want to extract the songs:  
-mkdir ~/musica && mv ~/storage/downlads/Videos.zip ~/musica && unzip ~/musica/Videos.zip && rm ~musica/Videos.zip
+**Move** the **zip** from your storage **to where you want to extract** the songs:  
+**mkdir ~/musica && mv ~/storage/downlads/Videos.zip ~/musica && unzip ~/musica/Videos.zip && rm ~musica/Videos.zip**
   
-To play a song run mpg123 filename.mp3  
+To play a song run **mpg123 filename.mp3**  
   
 Example:  
 mpg123 ~/musica/Silversun\ Pickups\ -\ Don\'t\ Know\ Yet.mp3
